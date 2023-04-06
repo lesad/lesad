@@ -1,6 +1,6 @@
 Hi! 👋 My name is Adrián Leštinský.
 
 
-I'm CS undergraduate @ Masaryk University. Currently I'm working as a __Junior Frontend/Backend Developer__.
+I'm CS graduate @ Masaryk University. Currently I'm working as a __Junior Frontend/Backend Developer__.
 
-If you are interested, make sure to check out my [repository](https://github.com/lesad/messenger-cv).
+If you are interested in my work, make sure to check out [repository](https://github.com/lesad/messenger-cv).
